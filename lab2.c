@@ -25,7 +25,7 @@ if ( PAT[i] == '\0')
 //copy replace string in ans string
 for(k=0; REP[k] != '\0';k++,j++)
 ans[j] = REP[k];
-i=0;
+i=0;//checking for the pattern repetition
 c=m;
 }
 
