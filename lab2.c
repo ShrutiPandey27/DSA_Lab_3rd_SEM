@@ -48,5 +48,5 @@ else
 ans[j] = '\0';
 printf("\nThe RESULTANT string is:%s\n" ,ans);
 }
-getch();
+//getch();
 }
